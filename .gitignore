@@ -1,0 +1,9 @@
+img_4/
+img_5/
+img_plot_4/
+img_plot_5/
+target/
+.venv/
+documents/
+.env
+text_retrieval.py

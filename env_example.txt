@@ -1,0 +1,3 @@
+IMG_FOLDER="img_4"
+IMG_PLOT_FOLDER="img_plot_4"
+QUERY_IMAGE="target/rosa_canina.jpg"
